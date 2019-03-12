@@ -24,7 +24,7 @@ méthode : `GET`
 
 paramètres : `access_token`
 
-![](https://extranet.handisport.org/img/api/capture_token_ressource.png)
+![](https://extranet.handisport.org/img/api/capture_token_ressource2.png)
 
 Une réponse json est retournée avec les informations de la ressource souhaitée.
 
