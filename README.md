@@ -20,7 +20,7 @@ _Une réponse json est retournée avec les informations du jeton d'accès_
 
 url : `https://sso.handisport.org/api/...`
 
-méthode : `GET`
+méthode : `POST`
 
 paramètres : `access_token`
 
