@@ -34,9 +34,7 @@ Une réponse json est retournée avec les informations de la ressource souhait
 
 url : `https://sso.handisport.org/api/structures`
 
-### Evénements FFH à venir
 
-url : `https://sso.handisport.org/api/events`
 
 
 
