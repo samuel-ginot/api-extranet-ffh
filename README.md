@@ -30,9 +30,13 @@ Une réponse json est retournée avec les informations de la ressource souhait
 
 ## Ressources disponibles sur l'API
 
-### Comités , clubs et sections handisports affiliés dans l'année en cours
+###  1 • Comités , clubs et sections handisports affiliés dans l'année en cours
 
 url : `https://sso.handisport.org/api/structures`
+
+###  2 • Evénements handisports proposés sur notre calendrier national (ayant lieu après la date du jour)
+
+url : `https://sso.handisport.org/api/events`
 
 
 
