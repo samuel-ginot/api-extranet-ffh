@@ -38,6 +38,10 @@ url : `https://sso.handisport.org/api/structures`
 
 url : `https://sso.handisport.org/api/events`
 
+Il est possible d'ajouter des parètres à la requête :
+
+Paramètre 1 : Evénements pour un département
+
 ![](https://extranet.handisport.org/img/api/capture_events_by_dep.png)
 
 
