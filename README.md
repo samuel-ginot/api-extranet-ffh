@@ -38,7 +38,7 @@ url : `https://sso.handisport.org/api/structures`
 
 url : `https://sso.handisport.org/api/events`
 
-![](https://extranet.handisport.org/img/api/capture_token_event_by_dep.png)
+![](https://extranet.handisport.org/img/api/capture_events_by_dep.png)
 
 
 
