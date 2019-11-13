@@ -44,6 +44,10 @@ Paramètre 1 : Evénements pour un département
 
 ![](https://extranet.handisport.org/img/api/capture_events_by_dep.png)
 
+Exemple de données reccueillies
+
+![](https://extranet.handisport.org/img/api/capture_events_by_dep.png)
+
 
 
 
