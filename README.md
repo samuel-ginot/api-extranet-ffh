@@ -34,6 +34,10 @@ Une réponse json est retournée avec les informations de la ressource souhait
 
 url : `https://sso.handisport.org/api/structures`
 
+Exemple de données reccueillies
+
+![](https://extranet.handisport.org/img/api/capture_datas-type_structures.png)
+
 ###  2 • Evénements handisports proposés sur notre calendrier national (ayant lieu après la date du jour)
 
 url : `https://sso.handisport.org/api/events`
@@ -46,7 +50,7 @@ Paramètre 1 : Evénements pour un département
 
 Exemple de données reccueillies
 
-![](https://extranet.handisport.org/img/api/capture_events_by_dep.png)
+![](https://extranet.handisport.org/img/api/capture_datas-type_events.png)
 
 
 
